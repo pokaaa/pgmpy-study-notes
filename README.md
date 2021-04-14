@@ -21,7 +21,7 @@
  - [贝叶斯网络参数学习](https://github.com/pokaaa/pgmpy-study-notes/blob/main/Learning%20Parameters%20in%20Discrete%20Bayesian%20Networks.ipynb)
    - 最大似然估计(MLE)
    - 贝叶斯估计
- - 贝叶斯网络结构学习
+ - [贝叶斯网络结构学习](https://github.com/pokaaa/pgmpy-study-notes/blob/main/Structure%20Learning%20in%20Bayesian%20Networks.ipynb)
    - CH评分
    - 爬山法
 
