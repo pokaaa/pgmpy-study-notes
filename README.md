@@ -12,7 +12,7 @@
 >
 
 ## 目前已完成的源码学习
-tips:如果打不开ipynb文件，一直提示reload，可以进入这个[阅读jupiter的网站](https://nbviewer.jupyter.org/)，在里面输入文件对应网址就可以啦！
+**tips**:如果打不开ipynb文件，一直提示reload，可以进入这个[阅读jupiter的网站](https://nbviewer.jupyter.org/)，在里面输入文件对应网址就可以啦！
  - [创建贝叶斯网络](https://github.com/pokaaa/pgmpy-study-notes/blob/main/Creating%20a%20Discrete%20Bayesian%20Network.ipynb)
    - 创建：定义模型结构、CPD 
    - 基本运算：判断d-分隔/有向分隔、马尔可夫性 
