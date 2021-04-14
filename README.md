@@ -8,7 +8,7 @@
 > **原笔记**源自：*[https://github.com/pgmpy/pgmpy/tree/dev/examples](https://github.com/pgmpy/pgmpy/tree/dev/examples)*.
 
 ## 我的笔记
-> **我的学习笔记**以"""红色注释"""的形式添加在了**原笔记**的代码部分
+> **我的学习笔记**以"""红色注释"""的形式**添加**在了**原笔记**的代码部分
 >
 
 ## 目前已完成的源码学习
