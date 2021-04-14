@@ -12,7 +12,7 @@
 >
 
 ## 目前已完成的源码学习
- - 创建贝叶斯网络
+ - [创建贝叶斯网络](https://github.com/pokaaa/pgmpy-study-notes/blob/main/Creating%20a%20Discrete%20Bayesian%20Network.ipynb)
    - 创建：定义模型结构、CPD 
    - 基本运算：判断d-分隔/有向分隔、马尔可夫性 
  - 贝叶斯网络的推理问题
